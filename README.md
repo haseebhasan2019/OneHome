@@ -7,4 +7,4 @@ expenses, tracking recurring services, and facilitating efficient home-managemen
 - Configured a Linux AWS EC2 instance to serve the website
 
 
-![alt text](https://github.com/haseebhasan2019/OneHome/blob/master/Screenshot%20(80).PNG?raw=true)
+![alt text](https://github.com/haseebhasan2019/OneHome/blob/master/Screenshot%20(80).png?raw=true)
