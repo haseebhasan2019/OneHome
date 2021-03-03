@@ -1,5 +1,7 @@
 # OneHome - Home information management system
 Jun 2020 – Present
 
-- Developing a comprehensive information management system for homeowners to digitize, organize, and track important details about expenses, services, vendors, and more
-- Working alongside a cross-functional team of developers and a project manager to architect a full-stack solution utilizing an SQL database, Java backend, and an Angular frontend
+- Developed a digitalized system to improve homeowner lifestyle and productivity by organizing home-related
+expenses, tracking recurring services, and facilitating efficient home-management
+- Architected a full-stack solution utilizing an SQL database, Java, JAX-RS framework, HTML, CSS, and JavaScript
+- Configured a Linux AWS EC2 instance to serve the website
